@@ -1,0 +1,3 @@
+14:25:43.476 INFO  spotify-this-song["Africa","Toto","https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF","Toto IV"] 
+14:26:52.604 INFO  spotify-this-song["Africa","Toto","https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF","Toto IV"] 
+14:27:38.221 INFO  spotify-this-song Africa,Toto,https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF,Toto IV 
