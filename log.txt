@@ -1,3 +1,7 @@
 14:25:43.476 INFO  spotify-this-song["Africa","Toto","https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF","Toto IV"] 
 14:26:52.604 INFO  spotify-this-song["Africa","Toto","https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF","Toto IV"] 
 14:27:38.221 INFO  spotify-this-song Africa,Toto,https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF,Toto IV 
+19:10:19.520 INFO  spotify-this-song Thriller,Michael Jackson,https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm,Scream 
+19:14:35.780 INFO  do-what-it-says I Want It That Way,Backstreet Boys,https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7,The Hits--Chapter One 
+19:15:49.550 INFO  do-what-it-says I Want It That Way,Backstreet Boys,https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7,The Hits--Chapter One 
+19:17:50.399 INFO  spotify-this-song Thriller,Michael Jackson,https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm,Scream 
